@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a3c57bc1-fe0a-4134-9f31-73809cdc8fcb" name="Default" comment="baseBegin">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java_base/Dog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java_base/HelloWorld.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java_base/Puppy.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/java_base/Puppy2.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/java_base.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/01/Main.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a3c57bc1-fe0a-4134-9f31-73809cdc8fcb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -244,12 +233,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1528596103800</updated>
-      <workItem from="1528596109855" duration="3128000" />
+      <workItem from="1528596109855" duration="3137000" />
     </task>
+    <task id="LOCAL-00001" summary="baseBegin">
+      <created>1528599641193</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528599641193</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3128000" />
+    <option name="totallyTimeSpent" value="3137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="6" y="22" width="1440" height="828" extended-state="6" />
