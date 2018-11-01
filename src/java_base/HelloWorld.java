@@ -1,4 +1,4 @@
-package java_base;
+// package java_base;
 
 public class HelloWorld {
 //public公开给其他类存取//class类声明//HelloWorld类名称
